@@ -14,12 +14,16 @@ Each category is represented in its own directory with relevant Java files conta
 
 ### 1. 1D Arrays
 - **Description**: Examples demonstrating the creation, manipulation, and traversal of 1D arrays.
-- **Example**: `int a[] =new int[5];`
+- **Example**:
+  ```java
+  `int a[] =new int[5];`
 
 ### 2. 2D Arrays
 - **Description**: Examples showcasing the usage of 2D arrays, often used for matrices or grids.
+  ```java
 - **Example**: `int a[][]=new int [2][5];`
 
 ### 3. 3D Arrays
 - **Description**: Examples illustrating the creation and manipulation of 3D arrays.
+  ```java
 - **Example**: `int a[][][]=new int [2][3][5];`
