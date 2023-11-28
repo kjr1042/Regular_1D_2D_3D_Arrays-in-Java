@@ -20,10 +20,12 @@ Each category is represented in its own directory with relevant Java files conta
 
 ### 2. 2D Arrays
 - **Description**: Examples showcasing the usage of 2D arrays, often used for matrices or grids.
+- **Example**:
   ```java
-- **Example**: `int a[][]=new int [2][5];`
+   `int a[][]=new int [2][5];`
 
 ### 3. 3D Arrays
 - **Description**: Examples illustrating the creation and manipulation of 3D arrays.
-  ```java
-- **Example**: `int a[][][]=new int [2][3][5];`
+- **Example**:
+   ```java
+  `int a[][][]=new int [2][3][5];`
